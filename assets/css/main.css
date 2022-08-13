@@ -2558,26 +2558,25 @@ input, select, textarea {
 			color: #b2b2b2 !important;
 			cursor: default;
 		}
-
+/* --- My buttons to GH repo & live site --- */
 		#github {
 			background-color: #BDB7B9;
-			border: solid 1px #BDB7B9;
+			border: none;
 			border-radius: 0.35em;
 			color: #fff;
+			font-size: 14px;
 			margin-right: 5px;
-			padding: 1px 5px;
+			padding: 3px 10px;
 			width: 20px;
 		}
 
 		#github:hover, #github a:hover {
-			background-color: #7D797B;
-			border-color: #7D797B;
+			background-color: #a59fa1;
 			color: #fff;
 		}
 
 		#github:active {
 			background-color: #7D797B;
-			border-color: #7D797B;
 		}
 
 /* Work Item */
